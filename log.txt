@@ -1,0 +1,34 @@
+* [33mef013d6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m a file main edited
+*   [33m5d3f612[m 팀원 파일 가져옴
+[32m|[m[33m\[m  
+[32m|[m * [33m041e8f8[m 팀원이 만든 b 파일
+* [33m|[m [33mbe9221b[m c file added
+[33m|[m[33m/[m  
+* [33m6bbd9eb[m a file edit
+* [33mff09e46[m a file
+* [33mec8a0e6[m Revert "2nd remove cancel"
+* [33m5b8adaa[m 2nd remove
+*   [33me8b481a[m Merge branch 'rebase-side'
+[34m|[m[35m\[m  
+[34m|[m * [33me1122ea[m[33m ([m[1;32mrebase-side[m[33m)[m side-rebase2
+[34m|[m * [33m2fb7f06[m side-rebase1
+* [35m|[m [33macfb656[m rebase_main3
+[35m|[m[35m/[m  
+* [33mab478cb[m rebase_main2
+* [33ma064d35[m rebase_main1
+*   [33m53e0a2d[m rebase merge
+[36m|[m[1;31m\[m  
+[36m|[m * [33mba3086d[m[33m ([m[1;32mbtn[m[33m)[m btn2
+[36m|[m * [33m7d79036[m btn1
+* [1;31m|[m [33mc7672c1[m third
+[1;31m|[m[1;31m/[m  
+* [33m40868e3[m second
+* [33mce989e5[m first
+*   [33m5a401e4[m Merge branch 'side'
+[1;32m|[m[1;33m\[m  
+[1;32m|[m * [33m4e6b2a8[m side2
+[1;32m|[m * [33m49eb5ad[m side1
+* [1;33m|[m [33m9993d2d[m commit3
+[1;33m|[m[1;33m/[m  
+* [33m5bf7352[m commit2
+* [33m82ad2b8[m commit1
